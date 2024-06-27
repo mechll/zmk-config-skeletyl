@@ -254,11 +254,11 @@
     dvorak {
       bindings = <
   /* ╭──────────────────────────────────────────────────────────────────╮ ╭──────────────────────────────────────────────────────────────────╮ */
-       &kp APOS     &comma_c_d   &dot_c_c     &kp P        &kp Y            &kp F        &kp G        &kp C        &kp R        &kp L
-       &lhm LALT A  &lhm LGUI O  &lhm LCTRL E &lhm LSHFT U &kp I            &kp D        &kp H        &rhm LCTRL T &rhm LGUI N  &rhm LALT S
-       &none        &kp Q        &kp J        &kp K        &kp X            &kp B        &kp M        &kp W        &kp V        &kp Z
+       &kp Q     &kp W   &kp E     &kp R        &kp T            &kp Y        &kp u        &kp I        &kp O        &kp P
+       &kp A     &kp S   &kp D     &kp F        &kp G            &kp h        &kp j        &kp k        &kp l        &kp x
+       &kp Z     &kp x   &kp C     &kp V        &kp B            &kp B        &kp n        &kp m        &kp R        &kp S
   /* ╰──────────────────────────────────────────────────────────────────┤ ├──────────────────────────────────────────────────────────────────╯ */
-                                 &mo LOWER    &kp SPACE    &none            &none        &sk LSHIFT   &mo UPPER
+                                 &kp v    &kp SPACE    &kp d                 &kp Y        &kp W   &kp L
   /*                           ╰────────────────────────────────────────╯ ╰────────────────────────────────────────╯                           */
       >;
     };
