@@ -69,7 +69,7 @@
        &lhm LSHFT A   &lhm LALT S  &lhm LCTRL D  &lhm LGUI F    &kp G       &kp H        &rhm LGUI J    &rhm LCTRL K  &rhm LALT L    &rhm RSHIFT SEMICOLON
        &mt SYSTEM Z   &kp X        &kp C         &kp V          &kp B       &kp N        &kp M          &kp COMMA     &kp PERIOD     &mt SYSTEM SLASH
   /* ╰────────────────────────────────────────────────────────────────┤ ├─────────────────────────────────────────────────────────────────────────────────╯ */
-              &mt UPPER TAB    &mt LOWER SPACE   &mt FUNCTIONS ESCAPE        &mt UPPER BACKSPACE  &mt SYSTEM ENTER  &kp SPACE
+              &mt UPPER TAB    &mt LOWER SPACE   &mt LGUI ESCAPE        &mt UPPER BACKSPACE  &mt FUNCTIONS ENTER  &kp SPACE
   /*       ╰──────────────────────────────────────────────────────────╯ ╰────────────────────────────────────────────────────╯                           */
       >;
     };
