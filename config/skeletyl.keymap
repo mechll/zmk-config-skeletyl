@@ -67,9 +67,9 @@
   /* ╭────────────────────────────────────────────────────────────────╮ ╭─────────────────────────────────────────────────────────────────────────────────╮ */
        &kp Q          &kp W        &kp E         &kp R          &kp T       &kp Y        &kp U          &kp I         &kp O          &kp P
        &lhm LSHFT A   &lhm LALT S  &lhm LCTRL D  &lhm LGUI F    &kp G       &kp H        &rhm LGUI J    &rhm LCTRL K  &rhm LALT L    &rhm RSHIFT SEMICOLON
-       &mt Z SYSTEM   &kp X        &kp C         &kp V          &kp B       &kp N        &kp M          &kp COMMA     &kp PERIOD     &mt SLASH SYSTEM
+       &mt SYSTEM Z   &kp X        &kp C         &kp V          &kp B       &kp N        &kp M          &kp COMMA     &kp PERIOD     &mt SYSTEM SLASH
   /* ╰────────────────────────────────────────────────────────────────┤ ├─────────────────────────────────────────────────────────────────────────────────╯ */
-              &mt TAB UPPER    &mt SPACE LOWER   &mt ESCAPE FUNCTIONS        &mt BACKSPACE UPPER  &mt ENTER SYSTEM  &kp SPACE
+              &mt UPPER TAB    &mt LOWER SPACE   &mt FUNCTIONS ESCAPE        &mt UPPER BACKSPACE  &mt SYSTEM ENTER  &kp SPACE
   /*       ╰──────────────────────────────────────────────────────────╯ ╰────────────────────────────────────────────────────╯                           */
       >;
     };
