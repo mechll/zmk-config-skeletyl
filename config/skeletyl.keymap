@@ -12,6 +12,7 @@
 #define LOWER 1
 #define UPPER 2
 #define FUNCTIONS 3
+#define SYSTEM 4
 
 / {
 
